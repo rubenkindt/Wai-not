@@ -1,0 +1,23 @@
+/*
+*---------------------------- Ontmijner.js---------------------------------------------*
+| 				 		  Made By Ruben Kindt 										   |
+|as an assignment by Ku Leuven for Webtechnologie: theorie (B-KUL-YI6699), for Wai-not |
+|																					   |
+*--------------------------------------------------------------------------------------*
+*/
+canvas {
+    border:1px solid #d3d3d3;
+}
+img {
+  display: none;
+}
+audio {
+  display: none;
+}
+div{
+	display:none;
+}
+
+canvas{
+
+}
